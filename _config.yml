@@ -1,0 +1,6 @@
+title: CarsServer
+logo: /assets/img/logo.png
+description: 一款实时监控Linux服务器的负载、CPU使用率、内存及交换内存使用情况和磁盘I/O性能的工具,支持SFTP.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
